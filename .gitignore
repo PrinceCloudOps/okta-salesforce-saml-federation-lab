@@ -1,0 +1,10 @@
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# Certificates & sensitive metadata
+*.cert
+*.pem
+*.key
